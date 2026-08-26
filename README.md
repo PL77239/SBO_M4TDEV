@@ -1,4 +1,4 @@
-This repo represents the game "Shutokou Battle Online" made by Genki and ran 2003-2005 as a subscription-based MMO. Game client was untouched, however server and database both had to be modified to run as a whole. Server was primarly made by the user "tofuman0" and later modified step-by-step. 
+This repo represents the game "Shutokou Battle Online" made by Genki and ran 2003-2005 as a subscription-based MMO. It used MPS (MassPlayerSystem). Game client was untouched, however server and database both had to be modified to run as a whole. Server was primarly made by the user "tofuman0" and later modified step-by-step. 
 
 
 This version currently offers multiplayer as a freeroam, but lacks a lot of features that would make it more vivid.
