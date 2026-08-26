@@ -1,0 +1,20 @@
+!unlock all - Odblokowuje części i inne (?)
+!give cp 100000 - Dodaje 100000CP (dużo w ekonomii tej gry)
+!give item 2110 - Dodaje ticket do CAR SHOP COURSE (TP)    
+!give item 2111 - Dodaje ticket do PARTS SHOP COURSE (TP)
+!give item 2115 - Dodaje ticket do TIME ATTACK COURSE A (TP)
+!give item 2116 - Dodaje ticket do TIME ATTACK COURSE B (TP)
+
+CTR + A - ON/OFF trybu bezpiecznego (auto-pilot)
+CTR + S - ON/OFF czatu serwera 
+
+Z - Gaz 				Kwadrat - Gaz
+X - Hamulec				Trójkąt - Hamulec
+A = Wsteczny				X - Wsteczny
+C - Światła długie
+B - Zoom mapy
+
+Ukończenie wyzwania TIME ATTACK (obecnie A) skutkuje nagrodą w postaci CP i EXP. W późniejszym czasie zostaną dodane bramki czasowe oraz publiczne leaderboardy.
+
+TODO - Team Center, Tune Car Exchange
+
